@@ -12,14 +12,18 @@
   <a href="#Autor">Autor</a>
 </p>
 
-
 ## Objetivo
 
 Esse projeto tem por objetivo o desenvolvimento de um artigo utilizando ferramentas de inteligência artificial para auxiliar na produção de um documento estruturado, rico, afim de promover autoridade no assunto e de fácil leitura.
 
-<a href="https://web.dio.me/articles/transforme-a-web-em-sua-base-de-dados-pessoal-com-nodejs-e-web-scraping?back=%2Farticles&page=1&order=oldest">📰 Clique para ler o artigo</a>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <a href="./Artigo_Web-Scraping.md">📰 Clique para ler o artigo</a>
+  <p>|</p>
+  <a href="https://web.dio.me/articles/transforme-a-web-em-sua-base-de-dados-pessoal-com-nodejs-e-web-scraping?back=%2Farticles&page=1&order=oldest">Artigo na íntegra da DIO</a>
+</div>
 
 ## Tecnologias
+
 - As imagens personalizadas foram geradas por <a href="https://lexica.art/">Lexica</a>
 - Formatei os banners com <a href="https://www.libreoffice.org/discover/libreoffice/">LibreOffice</a>
 - Títulos e base para o conteúdo foram gerados com <a href="https://chat.openai.com/">ChatGPT</a>
@@ -36,19 +40,22 @@ Esse projeto tem por objetivo o desenvolvimento de um artigo utilizando ferramen
 </div>
 
 ## Prompts
+
 ChatGPT:
 
-| Ação | Prompt |
-|---|---|
-| Título | Assumindo que você seja o escritor de um artigo sobre Web Scraping com Node Javascript para um blog informal, desenvolva 10 headlines chamativas sobre o assunto |
+| Ação     | Prompt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Título   | Assumindo que você seja o escritor de um artigo sobre Web Scraping com Node Javascript para um blog informal, desenvolva 10 headlines chamativas sobre o assunto                                                                                                                                                                                                                                                                                                                                                                                             |
 | Conteúdo | Escreva o artigo, com título "Node.js e Web Scraping: Transforme a Web em Sua Base de Dados Pessoal", seguindo as regras: {REGRAS}; > No máximo 5 linhas por bloco de explicação; > Explique de maneira informal, como se explicasse para uma pessoa que não entende nada de programação; > Os blocos do texto são: - O que é o NodeJS; - O que é Web Scraping; - Qual a utilidade do Web Scraping; - Como fazer o Web Scraping; -- Exemplos de código JavaScript; - Call to action para as minhas redes sociais; - Pelo menos 3 hashtags que façam sentido" |
 
 ---
+
 Lexica:
 
 No Lexica utilizei o acervo público de "Web Scraping" e "Happy developers" para encontrar as imagens presentes no primeiro e último banner respectivamente.
 
-## Autor 
+## Autor
+
 Sou Héber Stavrakas Gaipo, estudante de engenharia da computação na Universidade do Estado de Minas Gerais e tenho muito interesse nesta área e em tudo que pode ser feito com os conhecimentos adquiridos nesta jornada.
 
 Estou participando do Santander Bootcamp 2024 - Fundamentos de IA para Devs, uma parceria Santander Open Academy com Digital Innovation One.

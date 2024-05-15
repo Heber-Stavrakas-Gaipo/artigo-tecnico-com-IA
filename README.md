@@ -9,16 +9,15 @@
   <a href="#objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#prompts">Prompts</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Autor">Autor</a>
+  <a href="#autor">Autor</a>
 </p>
 
 ## Objetivo
 
 Esse projeto tem por objetivo o desenvolvimento de um artigo utilizando ferramentas de inteligência artificial para auxiliar na produção de um documento estruturado, rico, afim de promover autoridade no assunto e de fácil leitura.
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <a href="./Artigo_Web-Scraping.md">📰 Clique para ler o artigo</a>
-  <p>|</p>
+<div aLign="center">
+  <a href="./Artigo_Web-Scraping.md">📰 Clique para ler o artigo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://web.dio.me/articles/transforme-a-web-em-sua-base-de-dados-pessoal-com-nodejs-e-web-scraping?back=%2Farticles&page=1&order=oldest">Artigo na íntegra da DIO</a>
 </div>
 

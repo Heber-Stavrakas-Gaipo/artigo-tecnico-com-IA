@@ -19,7 +19,7 @@ Esse projeto tem por objetivo o desenvolvimento de um artigo utilizando ferramen
 
 <a href="https://web.dio.me/articles/transforme-a-web-em-sua-base-de-dados-pessoal-com-nodejs-e-web-scraping?back=%2Farticles&page=1&order=oldest">📰 Clique para ler o artigo</a>
 
-## Tecnologias 👩‍💻
+## Tecnologias
 - As imagens personalizadas foram geradas por <a href="https://lexica.art/">Lexica</a>
 - Formatei os banners com <a href="https://www.libreoffice.org/discover/libreoffice/">LibreOffice</a>
 - Títulos e base para o conteúdo foram gerados com <a href="https://chat.openai.com/">ChatGPT</a>
@@ -35,7 +35,7 @@ Esse projeto tem por objetivo o desenvolvimento de um artigo utilizando ferramen
   <img aLign="center" style="margin: 4px;" alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
-## Prompts 💻
+## Prompts
 ChatGPT:
 
 | Ação | Prompt |

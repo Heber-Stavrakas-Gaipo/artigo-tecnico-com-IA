@@ -1,4 +1,4 @@
-# Artigo sobre Web Scraping gerado utilizando IA
+# Artigo sobre Web Scraping criado com auxília de IA
 
 <div aLign="center">
   <img style="height: 250px" src="./assets/Black_and_White_Phone_Mockup_Webinar_Promotion_Instagram_Story-removebg-preview.png" alt="Exemplo da página do artigo no site da DIO exibido na tela de um celular" />
